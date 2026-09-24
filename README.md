@@ -6,7 +6,7 @@
 
 **Part of a [11-case-study portfolio](https://github.com/ooi-darren)**, and the first case study in this portfolio centred on infrastructure and energy rather than a single company or product market.
 
-> A stretch of former oil-palm land on the Johor-Singapore border has become one of Southeast Asia's fastest-growing data centre markets, with Malaysia's own grid operator disclosing that only 15% of secured capacity is actually drawing power. Is this a real, fast-scaling economic boom, or a pipeline of announcements running well ahead of reality, and who is actually capturing value from it?
+> A stretch of former oil-palm land on the Johor-Singapore border has become the most visible symbol of one of Southeast Asia's fastest-growing data centre markets, but the real construction spans Johor, Selangor, and Negeri Sembilan at once, and Malaysia's own grid operator discloses that only 15% of secured capacity is actually drawing power. Is this a real, fast-scaling economic boom, or a pipeline of announcements running well ahead of reality, and who is actually capturing value from it?
 
 ## Recommendation
 
@@ -44,7 +44,9 @@ This project traces Malaysia's AI/hyperscaler data centre boom from its geograph
 
 **10. Johor's water constraint is real and already producing policy action, not a distant risk.** Johor banned older, water-inefficient facility tiers outright in November 2025, and a real community protest occurred in Gelang Patah in February 2026 over a specific facility under construction (Notebook 10).
 
-**11. Johor alone trails Singapore, but Malaysia nationally is forecast to overtake it.** Johor's 850MW built capacity is smaller than Singapore's ~1.4GW operational base, and this project's own earlier framing understated Malaysia's real position by using Johor as a stand-in for the whole country: Malaysia's national total, an estimated 2,055MW by end-2026 (of which Johor is 41.4%, the rest corroborated by this project's own Notebook 6 contractor data in Selangor and Negeri Sembilan), would exceed Singapore's if realised, though this is a forecast for a future date, not a confirmed actual; Malaysia's last confirmed national figure (784MW, 3Q2025) remains below Singapore's (Notebook 11).
+**11. Johor alone trails Singapore, but Malaysia nationally is forecast to overtake it.** Johor's 850MW built capacity is smaller than Singapore's ~1.4GW. But Johor is only 41.4% of Malaysia's estimated national total (2,055MW by end-2026, the rest corroborated by this project's own Notebook 6 contractor data in Selangor and Negeri Sembilan); once the whole country is counted, Malaysia is on track to pass Singapore, though as a forecast for a few months from now, not a confirmed fact today, since Malaysia's last confirmed actual (784MW, 3Q2025) still trails Singapore (Notebook 11).
+
+**12. Johor is the largest cluster, but real hyperscale construction spans at least three Malaysian states.** Besides Johor, this project independently confirmed billions of ringgit in hyperscale data centre contracts in Selangor (Elmina Business Park, Bandar Serendah) and Negeri Sembilan (Port Dickson), not smaller side projects but comparable in scale to what was found in Johor itself (Notebook 2, Notebook 6).
 
 ## Explain It Simply
 
@@ -61,7 +63,7 @@ Most news coverage of Malaysia's data centre boom either repeats the biggest hea
 | # | Question | Data Rigor |
 |---|---|---|
 | [01: Why Malaysia, Why Johor](./notebooks/01_why_malaysia_why_johor.ipynb) | What actually pulled this investment to one specific stretch of land? | PUBLIC |
-| [02: The Capacity Build-Out](./notebooks/02_capacity_buildout.ipynb) | How fast is capacity actually being built, and how concentrated in Johor? | PUBLIC |
+| [02: The Capacity Build-Out](./notebooks/02_capacity_buildout.ipynb) | How fast is capacity being built, and where in Malaysia is it actually happening? | PUBLIC + DERIVED |
 | [03: The Utilisation Gap](./notebooks/03_the_utilisation_gap.ipynb) | How much of the committed capacity is actually being used? | PUBLIC |
 | [04: TNB's Own Economics](./notebooks/04_tnb_economics.ipynb) | What is this actually costing the grid operator, and how is it priced? | PUBLIC |
 | [05: YTL Power International](./notebooks/05_ytl_power.ipynb) | What does the one fully-disclosed operator's real performance show? | PUBLIC |
