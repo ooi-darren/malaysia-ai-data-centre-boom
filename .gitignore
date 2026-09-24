@@ -1,0 +1,32 @@
+# Raw source documents: company filings, analyst briefings, and third-party
+# reports kept locally for verification, not committed. Some sources here
+# (TNB's own site) explicitly prohibit reproduction of their content, so raw
+# downloads are never checked in regardless of format.
+data/raw/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+
+# PyCharm / VS Code
+# .idea/
+# .vscode/
+
+db.sqlite3
+db.sqlite3-journal
