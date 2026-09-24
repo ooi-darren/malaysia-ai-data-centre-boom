@@ -1,0 +1,8 @@
+institution,metric,value,unit,period,note
+MIDA,Cumulative approved DC-related investment,144.4,RM billion,2021-1H2025,"Multi-year approval pipeline stock, not spent capex or GDP"
+MIDA,Cumulative approved DC-related investment,385.7,RM billion,2021-1H2026,"Multi-year approval pipeline stock, not spent capex or GDP"
+Bank Negara Malaysia (staff estimate),Data centres' direct contribution to real GDP,0.9,RM billion,2021,"BNM staff's own initial estimate, ~1% of real GDP by 2025f; not an official final GDP statistic"
+Bank Negara Malaysia (staff estimate),Data centres' direct contribution to real GDP,14.1,RM billion,2025f,"BNM staff's own initial estimate; forecast, not audited outturn"
+Bank Negara Malaysia,Data centres' share of net FDI inflows,4,percent,2022,"BNM Chart 3, source DOSM + BNM"
+Bank Negara Malaysia,Data centres' share of net FDI inflows,37,percent,2023,"BNM Chart 3, source DOSM + BNM"
+Bank Negara Malaysia,Data centres' share of net FDI inflows,51,percent,2024,BNM Chart 3; DC overtook manufacturing as top FDI recipient

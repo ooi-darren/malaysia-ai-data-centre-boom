@@ -1,0 +1,6 @@
+metric,value,unit,note
+Water use per 100MW facility (cooling),4.16,million litres/day,"Well-corroborated industry estimate, not a single primary engineering study"
+"Equivalent household water use, 100MW facility",18000,households/day equivalent,Derived from the 4.16 MLD figure
+"Projected 2030 water need, ~48 Johor data centres",675,million cubic metres/year,"w.media special report (trade publication, not a primary government figure)"
+Treated effluent redirected to data centres,12,million litres/day,"Indah Water Konsortium + Johor Special Water, via w.media reporting, from 13 waste treatment plants"
+50MW facility household-equivalent (BNM calc),22000,"households/day electricity equivalent; ~2,200 households/day water equivalent","Bank Negara Malaysia's own calculation, sourced to DOSM per-capita data and MIDA's Water Usage Effectiveness guideline"

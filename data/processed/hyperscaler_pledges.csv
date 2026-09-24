@@ -1,0 +1,7 @@
+company,pledge_usd_bn,pledge_rm_bn_bnm_crosscheck,period_covered,note
+AWS,6.0,29.2,to 2037/2038,RM figure independently cross-verified via BNM Q3 2025 Bulletin
+Microsoft,2.2,10.5,2024-2027,RM figure independently cross-verified via BNM Q3 2025 Bulletin
+Google,2.0,9.4,2024-2030,RM figure independently cross-verified via BNM Q3 2025 Bulletin
+Oracle,6.5,,not specified,USD figure only; no independent RM cross-check found
+Nvidia,4.3,,not specified,USD figure only; no independent RM cross-check found
+ByteDance,2.1,,not specified,USD figure only; no independent RM cross-check found

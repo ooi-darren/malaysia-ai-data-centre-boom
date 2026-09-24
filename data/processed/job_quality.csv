@@ -1,0 +1,4 @@
+role_level,monthly_salary_rm_low,monthly_salary_rm_high,note
+DC entry-level,3000,7000,"BNM Chart 5, source DOSM/Jobstreet"
+DC senior,10000,30000,"BNM Chart 5, source DOSM/Jobstreet"
+"Malaysia median salary (2024, all sectors)",2793,2793,DOSM; BNM explicitly notes DC job volume is low vs. manufacturing despite the wage premium
