@@ -1,5 +1,6 @@
 market,capacity_mw,regime_note
 Johor,850,"Built; +1,800MW building, +2,700MW pipeline. Rapid build-out, now curbed for non-AI applications since ~mid-2024 (informal moratorium confirmed by PM Anwar Ibrahim, 24 Feb 2026 Dewan Rakyat answer)"
+Malaysia (national),2055,"End-2026 estimate, all states combined (Johor is the largest single cluster within this total at 850MW built, but Selangor and Negeri Sembilan also host major hyperscale construction per this project's own Notebook 6 contractor data). This is the fair country-to-country comparison basis; the Johor-specific figure below answers a narrower question about the border-adjacent cluster specifically."
 Singapore,1400,"Operational across 70+ facilities. Moratorium 2019-Jan 2022, then strict quota regime (PUE <=1.3, 100% REC, >=60% liquid cooling); adding capacity in tightly-rationed 50-300MW increments"
 Indonesia (national/Batam),580,"~1.3GW pipeline (~$15-20bn investment). Batam's DayOne project: 511MVA (~450MW) PPA with PLN Batam, phased 2026-2027"
 Vietnam,525,Forecast to reach 950.4MW by 2030
